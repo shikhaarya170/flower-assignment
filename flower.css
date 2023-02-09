@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    
+    position: absolute;
+    top: 30vh;
+    left: 100vh;
+    
+}
+
+
+
+
+.inside{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: brown;
+    position: absolute;
+    left: 50px;
+}
+
+.petal12{
+    position: absolute;
+    top: -43px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+    background-color:red  ;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border: 1px solid black;
+    transform: rotate(81deg);
+}
+
+ /* .petal1{
+    width: 40px;
+    height: 50px;
+    left: 3px;
+    top: -9px;
+    background-color:red;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(-319deg);
+
+ } */
+
+
+.petal2{
+    width: 50px;
+    height: 50px;
+    left: 15px;
+    top: 40px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(180deg);
+
+
+}
+
+.petal3{
+    width: 50px;
+    height: 50px;
+    left: 82px;
+    top: -45px;
+    background-color:red  ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(180deg);
+
+
+}
+
+
+.petal4{
+    width: 50px;
+    height: 50px;
+    left: 99px;
+    top: -9px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(228deg);
+
+}
+
+.petal5{
+    width: 50px;
+    height: 50px;
+    left: 55px;
+    top: 50px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(121deg);
+
+
+}
+
+.petal6{
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    left: -7px;
+    top: 4px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    transform: rotate(35deg);
+}
+
+    
+
+
+.petal7{
+    width: 50px;
+    height: 50px;
+    left: 48px;
+    top: -60px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(139deg);
+}
+
+
+
+.petal8{
+    width: 50px;
+    height: 50px;
+    left: 88px;
+    top: 29px;
+    background-color:red ;
+    border: 1px solid black;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    position: absolute;
+    transform: rotate(254deg);
+}
+
+
